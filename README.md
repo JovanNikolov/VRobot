@@ -28,6 +28,7 @@ VRobot/
 1. Copy `RaspberryPiScripts/` to your Raspberry Pi
 2. Install dependencies:
    ```bash
+   these are not implemented in the project, venv is required with PCA9685 libraries
    pip install -r requirements.txt
    ```
 
